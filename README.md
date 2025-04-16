@@ -1,5 +1,6 @@
 # Mathematics for Machine Learning
 
+
 A collection of resources to learn and review mathematics for machine learning.
 
 # :book: Books
